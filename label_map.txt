@@ -1,2 +1,2 @@
-item { id:1,name:'climbing'}
-item { id:2,name:'normal'}
+item { id:0,name:'climbing'}
+item { id:1,name:'normal'}
